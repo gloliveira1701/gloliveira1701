@@ -1,7 +1,7 @@
 ### Guilherme L. Oliveira
 Engenheiro de Telecomunicações, Esp. em Gestão da Segurança da Informação. 
 
-- 🖥️ Atualmente focado nos estudos de Cyver Security.
+- 🖥️ Atualmente focado nos estudos de Cyber Security.
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
