@@ -1,8 +1,9 @@
 ### Guilherme L. Oliveira
 Engenheiro de Telecomunicações, Esp. em Gestão da Segurança da Informação.
-SYCP - Solyd Certified Pentester 
-Authenticity proof | https://solyd.com.br/ead/pentest/verificar/EmqRYARSxw/
 
+
+
+- 🖥️ SYCP - Solyd Certified Pentester | Authenticity proof <a href="https://solyd.com.br/ead/pentest/verificar/EmqRYARSxw/">EmqRYARSxw</a> .
 - 🖥️ Atualmente focado nos estudos de Cyber Security.
 
 <div style="display: inline">
